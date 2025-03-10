@@ -10,8 +10,8 @@ Bu proje, Flask tabanlı bir web uygulaması kullanarak görüntüleri sınıfla
 Öncelikle terminal veya komut istemcisini açın ve projeyi yerel makinenize indirin:
 
 ```bash
-git clone <REPO-URL>
-cd product_verification
+git clone <https://github.com/bektas-sari/nesne-tanima>
+cd nesne-tanima
 ```
 
 ---
@@ -60,4 +60,8 @@ Eğer model dosyanız eksikse, Google Colab üzerinden eğitip **`product_verifi
 
 ---
 
-###
+### Lisans
+MIT Lİsans. 
+
+### İleşitim
+Mail: bektas.sari@gmail.com
